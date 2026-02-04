@@ -46,7 +46,7 @@ During the model architecture design phase, our team established clear definitio
 * `FINAL_Project.py`: The main Python script integrating Random Forest, Multiclass XGBoost, and Neural Network implementations.
 * `Boosted_Tree.R`: R script dedicated to the Binary Classification (3 vs 8) experiment for granular performance analysis.
 * `AMS325_Project Report.pdf`: Full project report containing theoretical background and detailed error analysis.
-* `AMS325_Project Presentation.pptx`: Presentation slides summarizing the project workflow and results.
+* `AMS325_Project Presentation.pdf`: Presentation slides summarizing the project workflow and results.
 
 ---
 
